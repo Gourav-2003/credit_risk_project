@@ -12,9 +12,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Ignore large data files (optional, agar tu chaahe)
-*.csv
-*.xlsx
-*.parquet
-*.pkl
-*.h5
+# # Ignore large data files (optional, agar tu chaahe)
+# *.csv
+# *.xlsx
+# *.parquet
+# *.pkl
+# *.h5
