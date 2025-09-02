@@ -1,0 +1,20 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Anaconda/virtual environment related junk
+anaconda_projects/
+.env
+.venv
+__pycache__/
+*.pyc
+
+# Ignore OS specific junk
+.DS_Store
+Thumbs.db
+
+# Ignore large data files (optional, agar tu chaahe)
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.h5
